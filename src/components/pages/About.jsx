@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => {
   return (
     <div className='container'>
-        <div className='py-4'>
+        <div className='py-3'>
    <h1>About Page</h1>
    <p className='lead'>
    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In metus vulputate eu scelerisque felis imperdiet proin. Ullamcorper dignissim cras tincidunt lobortis. Pretium nibh ipsum consequat nisl vel pretium lectus. Varius vel pharetra vel turpis nunc eget lorem dolor sed. Nibh tellus molestie nunc non blandit. Sed egestas egestas fringilla phasellus faucibus. Aliquam etiam erat velit scelerisque. Gravida dictum fusce ut placerat orci. Ante metus dictum at tempor commodo ullamcorper. Lectus arcu bibendum at varius vel pharetra vel turpis nunc. Scelerisque fermentum dui faucibus in. Cursus turpis massa tincidunt dui ut ornare. Est pellentesque elit ullamcorper dignissim cras tincidunt.
